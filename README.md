@@ -20,7 +20,8 @@ Player 끼리 대화가 가능하다.
 
 
 ![image](https://user-images.githubusercontent.com/27190708/87300519-f19ae980-c548-11ea-8a66-8ad9ca0f0324.png)
-주석참고
+
+자세한 내용은 코드 내부 주석참고
 
 
 
